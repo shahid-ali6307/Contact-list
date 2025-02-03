@@ -66,5 +66,5 @@ while True :
 			print("Do you want to exit....?")
 			take=input("yes or no")
 			if take=='yes':
-				print("you have been exited from program successfully")
+				print("we have been exited from program successfully")
 				break
